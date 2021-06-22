@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to test-frontend 👋</h1>
+<h1 align="center">Welcome to learn how state in React Works 👋</h1>
 
 > Please add a function called 'substract' to substract a unit to the value 'value'.
 
